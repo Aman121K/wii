@@ -1,0 +1,1 @@
+export const baseURL = 'https://apibackend.wiio.com.br/api';
